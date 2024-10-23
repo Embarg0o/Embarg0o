@@ -22,6 +22,12 @@ This project creates a computer model that helps determine whether a news story 
   - Description: 
 This project creates a neural agent that can interact with users and provide information about the role of a travel agent in the tourism industry. We download data from Google Docs, process it and save it into a vector database. The neural agent uses language analysis models from OpenAI to answer user questions based on stored information.
 
+- **Project 5**: 
+  - Directory: `Translator from Azerbaijani language to English`
+  - Description: 
+This project creates a model that translates text from Azerbaijani into English. We use modern machine learning technologies and a special architecture called a transformer to teach the model to understand and translate text. The project involves loading data, preparing it and training the model, then testing how well it does the translation using example sentences.
+
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="500">
 <br><br>
 
@@ -38,3 +44,6 @@ Navigate to the [Fake News Detection with Machine Learning](https://github.com/E
 
 ### Project 4
 Navigate to the [Neuro-travel agent](https://github.com/Embarg0o/Embarg0o.github.io/tree/main/Neuro-travel%20agent) directory and follow the instructions in the `README.md` file.
+
+### Project 5
+Navigate to the [Translator from Azerbaijani language to English](https://github.com/Embarg0o/Embarg0o.github.io/tree/main/Translator%20from%20Azerbaijani%20language%20to%20English) directory and follow the instructions in the `README.md` file.
