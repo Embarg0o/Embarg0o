@@ -1,3 +1,4 @@
+[![Header](https://github.com/Embarg0o/Embarg0o/blob/main/assets/intelligent%20facial.jpg]
 # I want to introduce you to my projects :blush:
 
 This - [GitHub Repository](https://github.com/Embarg0o/Embarg0o.github.io) contains multiple projects: 
