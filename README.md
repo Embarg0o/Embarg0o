@@ -21,8 +21,10 @@ This project creates a computer model that helps determine whether a news story 
   - Directory: `Neuro-travel agent`
   - Description: 
 This project creates a neural agent that can interact with users and provide information about the role of a travel agent in the tourism industry. We download data from Google Docs, process it and save it into a vector database. The neural agent uses language analysis models from OpenAI to answer user questions based on stored information.
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="500">
 <br><br>
+
 ## How do I try out projects?
 
 ### Project 1
