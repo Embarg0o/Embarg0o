@@ -34,8 +34,8 @@ This project creates a model that translates text from Azerbaijani into English.
 This project aims to classify dog ​​breeds using a deep neural network. We use a pre-trained EfficientNetV2S model to transfer learning to the Stanford Dogs dataset, which contains 20,580 dog images divided into 120 classes (breeds).
 
 - **Projeck 7**
- - Directory: Image Resolution Enhancement with Deep Convolutional Network Autoencoders
- - Description: 
+  - Directory: Image Resolution Enhancement with Deep Convolutional Network Autoencoders
+  - Description: 
 This project builds a computer model that upscales images using autoencoders built on top of deep convolutional networks. We load a dataset of high-resolution images, preprocess them, create low-resolution versions of the images, and split the data into training and test sets. We then build and train a U-Net model that transforms the low-resolution images into high-resolution images. After training, we evaluate the quality of the model using PSNR and SSIM metrics and visually analyze the results.
 
 
