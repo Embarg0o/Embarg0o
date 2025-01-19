@@ -33,6 +33,14 @@ This project creates a model that translates text from Azerbaijani into English.
   - Description: 
 This project aims to classify dog ​​breeds using a deep neural network. We use a pre-trained EfficientNetV2S model to transfer learning to the Stanford Dogs dataset, which contains 20,580 dog images divided into 120 classes (breeds).
 
+- **Projeck 7**
+ - Directory: Image Resolution Enhancement with Deep Convolutional Network Autoencoders
+ - Description: 
+This project builds a computer model that upscales images using autoencoders built on top of deep convolutional networks. We load a dataset of high-resolution images, preprocess them, create low-resolution versions of the images, and split the data into training and test sets. We then build and train a U-Net model that transforms the low-resolution images into high-resolution images. After training, we evaluate the quality of the model using PSNR and SSIM metrics and visually analyze the results.
+
+
+
+
 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/dad5d025-91c3-43b9-9a3d-1c9266f77cb7" width="500">
@@ -57,4 +65,7 @@ Navigate to the [Translator from Azerbaijani language to English](https://github
 
 ### Project 6
 Navigate to the [Classification of dog breeds using EfficientNetV2S](https://github.com/Embarg0o/Embarg0o.github.io/tree/main/Classification%20of%20dog%20breeds%20using%20EfficientNetV2S) directory and follow the instructions in the `README.md` file.
+
+### Projeck 7
+Navigate to the [Image Resolution Enhancement with Deep Convolutional Network Autoencoders](https://github.com/Embarg0o/Embarg0o.github.io/tree/main/Image%20Resolution%20Enhancement%20with%20Deep%20Convolutional%20Network%20Autoencoders) directory and follow the instructions in the `README.md` file.
 
