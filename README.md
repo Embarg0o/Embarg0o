@@ -38,8 +38,10 @@ This project aims to classify dog ​​breeds using a deep neural network. We u
   - Description: 
 This project builds a computer model that upscales images using autoencoders built on top of deep convolutional networks. We load a dataset of high-resolution images, preprocess them, create low-resolution versions of the images, and split the data into training and test sets. We then build and train a U-Net model that transforms the low-resolution images into high-resolution images. After training, we evaluate the quality of the model using PSNR and SSIM metrics and visually analyze the results.
 
-
-
+- **Project 8**
+  - Directory : Task_Manager
+  - Description :
+This project is a cross-platform task management application built using Flutter. It allows users to create, view, edit, and delete tasks in an intuitive interface. The app supports basic CRUD operations (Create, Read, Update, Delete) and provides features such as marking tasks as completed, editing task details, and deleting tasks with ease. The application uses Material Design 3 for a modern and responsive user experience, ensuring compatibility across multiple platforms, including Android, iOS, Web, Windows, Linux, and macOS.
 
 
 
@@ -68,4 +70,9 @@ Navigate to the [Classification of dog breeds using EfficientNetV2S](https://git
 
 ### Projeck 7
 Navigate to the [Image Resolution Enhancement with Deep Convolutional Network Autoencoders](https://github.com/Embarg0o/Embarg0o.github.io/tree/main/Image%20Resolution%20Enhancement%20with%20Deep%20Convolutional%20Network%20Autoencoders) directory and follow the instructions in the `README.md` file.
+
+### Projeck 8
+Navigate to the [Task_Manager](https://github.com/Embarg0o/Embarg0o.github.io/tree/main/Task_Manager) directory and follow the instructions in the `README.md` file.
+
+
 
